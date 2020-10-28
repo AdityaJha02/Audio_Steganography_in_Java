@@ -2,3 +2,4 @@
 
 The project is implemented in JAVA GUI using AES Encryption. 
 The type of audio file in which project works best is .au and .wav files.
+The SNR and MSE value are calculated using the other repository can be found with this profile.
