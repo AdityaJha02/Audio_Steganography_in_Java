@@ -1,0 +1,4 @@
+# Audio Steganography
+
+The project is implemented in JAVA GUI using AES Encryption. 
+The type of audio file in which project works best is .au and .wav files.
